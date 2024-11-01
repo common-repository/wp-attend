@@ -1,0 +1,26 @@
+/* line 1, ../sass/_admin.scss */
+h3 {
+  margin-top: 30px;
+}
+
+/* line 5, ../sass/_admin.scss */
+.subscriptions-div {
+  margin-top: 30px;
+  margin-right: 30px;
+}
+
+/* line 10, ../sass/_admin.scss */
+.valid-image {
+  background-image: url("images/valid.png");
+  background-size: cover;
+  width: 16px;
+  height: 16px;
+}
+
+/* line 17, ../sass/_admin.scss */
+.invalid-image {
+  background-image: url("images/invalid.png");
+  background-size: cover;
+  width: 16px;
+  height: 16px;
+}

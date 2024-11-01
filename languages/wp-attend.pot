@@ -1,0 +1,195 @@
+# Copyright (C) 2019 Rutger De Wilde
+# This file is distributed under the same license as the WP Attend plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Attend 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/WP-attend\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-26T10:12:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0\n"
+"X-Domain: wp-attend\n"
+
+#. Plugin Name of the plugin
+msgid "WP Attend"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wp-attend.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Wordpress plugin for registering attendances"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rutger De Wilde"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bitsandarts.be"
+msgstr ""
+
+#: includes/class-wp-attend.php:132
+msgid "Please make sure to set a privacy policy for your WP Attend subscribers in"
+msgstr ""
+
+#: includes/class-wp-attend.php:132
+msgid "general settings"
+msgstr ""
+
+#: includes/class-wp-attend.php:138
+msgid "It's recommended to use SSL for enhanced safety when using the WP Attend plugin!"
+msgstr ""
+
+#: includes/pages/admin_wpattend.php:11
+msgid "General"
+msgstr ""
+
+#: includes/pages/admin_wpattend.php:12
+msgid "Subscriptions"
+msgstr ""
+
+#: includes/pages/general-settings.php:1
+msgid "General settings"
+msgstr ""
+
+#: includes/pages/general-settings.php:6
+msgid "Privacy policy URL"
+msgstr ""
+
+#: includes/pages/subscriptions.php:10
+msgid "Manage subscriptions"
+msgstr ""
+
+#: includes/pages/subscriptions.php:14
+msgid "search"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:109
+#: includes/shortcodes/class-calendar.php:134
+#: includes/shortcodes/class-calendar.php:209
+msgid "Description"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:112
+#: includes/shortcodes/class-calendar.php:137
+#: includes/shortcodes/class-calendar.php:210
+msgid "Location"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:115
+#: includes/shortcodes/class-calendar.php:140
+#: includes/shortcodes/class-calendar.php:211
+msgid "Time"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:119
+msgid "Send attendance email to subscribers"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:123
+#: includes/shortcodes/class-calendar.php:148
+msgid "Save"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:124
+#: includes/shortcodes/class-calendar.php:149
+msgid "Cancel"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:144
+msgid "Send updated version to subscribers"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:263
+msgid "Mon"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:264
+msgid "Tue"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:265
+msgid "Wed"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:266
+msgid "Thu"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:267
+msgid "Fri"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:268
+msgid "Sat"
+msgstr ""
+
+#: includes/shortcodes/class-calendar.php:269
+msgid "Sun"
+msgstr ""
+
+#: includes/shortcodes/class-subscribe.php:16
+msgid "Subscribed successfully! A verification email has been sent to your email-address."
+msgstr ""
+
+#: includes/shortcodes/class-subscribe.php:19
+msgid "Email address already exists."
+msgstr ""
+
+#: includes/shortcodes/class-subscribe.php:22
+msgid "Something went wrong sending a verification email. Please contact site administrator."
+msgstr ""
+
+#: includes/shortcodes/class-subscribe.php:37
+msgid "Check here to indicate that you have read and agree to the "
+msgstr ""
+
+#: includes/shortcodes/class-subscribe.php:37
+msgid "privacy policy"
+msgstr ""
+
+#: js/activityhandler.js:4
+msgid "are you sure you want to remove this activity?"
+msgstr ""
+
+#: js/activityhandler.js:18
+#: js/activityhandler.js:20
+msgid "Activity deleted succesfully"
+msgstr ""
+
+#: js/activityhandler.js:29
+#: js/activityhandler.js:73
+#: js/activityhandler.js:115
+#: js/displayActivityForm.js:40
+#: js/displayActivityForm.js:202
+#: js/displayActivityForm.js:280
+msgid "Something went wrong. Please contact site administrator."
+msgstr ""
+
+#: js/activityhandler.js:62
+#: js/activityhandler.js:64
+msgid "Activity created succesfully"
+msgstr ""
+
+#: js/activityhandler.js:104
+#: js/activityhandler.js:106
+msgid "Activity updated succesfully"
+msgstr ""
+
+#: js/subscriptionhandler.js:51
+msgid "are you sure you want to remove this subscription?"
+msgstr ""
+
+#: js/subscriptionhandler.js:56
+msgid "are you sure you want to set this subscription to invalid?"
+msgstr ""
+
+#: js/subscriptionhandler.js:61
+msgid "are you sure you want to resend the validation email?"
+msgstr ""
